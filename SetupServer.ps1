@@ -1,4 +1,5 @@
-Configuration SetupServer1 {
+Configuration SetupServer {
+    # test tags
     Node localhost {
                                WindowsFeature IIS {
                                Name = "Web-Server";
